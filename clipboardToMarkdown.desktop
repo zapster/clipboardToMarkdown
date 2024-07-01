@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Clipboard to Markdown
+Exec=$HOME/checkouts/clipboardToMarkdown/clipboardToMarkdown.py
+Version=1.0
+Type=Application
+Terminal=false
+StartupNotify=true
